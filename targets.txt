@@ -1,0 +1,18 @@
+# ==========================================
+# Archivo de destinos para monitor.sh
+# Añade una IP o dominio por línea.
+# Las líneas con # son comentarios y se ignoran.
+# ==========================================
+
+# Puertas de enlace y DNS locales/públicos
+192.168.1.1
+8.8.8.8
+1.1.1.1
+
+# Servidores y dominios de prueba
+google.com
+github.com
+
+# Ejemplo de servidor local o máquina virtual 
+# 192.168.1.50
+# 10.0.2.15
